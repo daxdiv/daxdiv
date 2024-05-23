@@ -11,7 +11,7 @@ I'm a computer science student based in Milan, Italy. I have a passion for web d
 
 ### Contact Me
 
-If you have any questions or want to get in touch, you can reach me via email at david200288l@gmail.com.
+If you have any questions or want to get in touch, you can reach me via email at david231116@icloud.com
 
 Thank you for visiting my GitHub profile page!
 
