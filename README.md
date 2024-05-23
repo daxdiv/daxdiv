@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a computer science student based in Milan, Italy. I have a passion for web development, with a particular focus on TypeScript.
+I'm a computer science student based in Italy. I have a passion for web development, with a particular focus on TypeScript.
 
 ### About Me
 
