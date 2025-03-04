@@ -10,7 +10,7 @@ I graduated in Computer Science at the University of Milan. I have a passion for
 
 ### Contact Me
 
-If you have any questions or want to get in touch, you can reach me via email at david231116@icloud.com
+If you have any questions or want to get in touch, you can reach me via email at cactus23jack@proton.me
 
 Thank you for visiting my GitHub profile page!
 
