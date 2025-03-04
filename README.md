@@ -1,10 +1,9 @@
 ## Hi there!
 
-I'm a computer science student based in Italy. I have a passion for web development, with a particular focus on TypeScript.
+I graduated in Computer Science at the University of Milan. I have a passion for web development, with a particular focus on TypeScript.
 
 ### About Me
 
-- 🎓 I'm currently pursuing a degree in Computer Science in Milan, Italy.
 - 💻 I have experience particularly in web development using HTML, CSS, JavaScript, TypeScript, React (and its infinite frameworks), and Node.js.
 - 🌟 I'm passionate about building beautiful and user-friendly web applications, and I love learning new technologies and programming languages.
 - 🇮🇹 I'm from Italy, and I speak Italian and English (B2 level).
